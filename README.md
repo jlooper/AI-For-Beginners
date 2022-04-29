@@ -12,7 +12,6 @@
 
 > **This curriculum is being actively developed on GitHub. Look into [contributing](CONTRIBUTING.md) to see which areas require active contributions. Please consider this a pre-release, and do not actively use in the classroom yet!**
 
-
 Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about **Artificial Intelligence**. 
 
 In this curriculum, you will learn:
