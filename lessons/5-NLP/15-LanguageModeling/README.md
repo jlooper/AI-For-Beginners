@@ -2,7 +2,7 @@
 
 Semantic embeddings, such as Word2Vec and GloVe, are in fact a first step towards **language modeling** - creating models that somehow *understand* (or *represent*) the nature of the language.
 
-## [Pre-lecture quiz](https://black-ground-0cc93280f.1.azurestaticapps.net/quiz/115)
+## [Pre-lecture quiz](https://red-field-0a6ddfd03.1.azurestaticapps.net/quiz/115)
 
 The main idea behind language modeling is training them on unlabeled datasets in an unsupervised manner. This is important because we have huge amounts of unlabeled text available, while the amount of labeled text would always be limited by the amount of effort we can spend on labeling. Most often, we can build language models that can **predict missing words** in the text, because it is easy to mask out a random word in text and use it as a training sample.
 
@@ -23,12 +23,14 @@ In our previous examples, we used pre-trained semantic embeddings, but it is int
 Continue your learning in the following notebooks:
 
 * [Training CBoW Word2Vec with TensorFlow](CBoW-TF.ipynb)
+* [Training CBoW Word2Vec with PyTorch](CBoW-PyTorch.ipynb)
+
 
 ## Conclusion
 
 In the previous lesson we have seen that words embeddings work like magic! Now we know that training word embeddings is not a very complex task, and we should be able to train our own word embeddings for domain specific text if needed. 
 
-## [Post-lecture quiz](https://black-ground-0cc93280f.1.azurestaticapps.net/quiz/215)
+## [Post-lecture quiz](https://red-field-0a6ddfd03.1.azurestaticapps.net/quiz/215)
 
 ## Review & Self Study
 

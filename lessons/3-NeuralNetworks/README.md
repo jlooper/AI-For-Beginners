@@ -37,7 +37,7 @@ Thus, the simplest mathematical model of a neuron contains several inputs X<sub>
 
 where f is some non-linear **activation function**.
 
-> Early models of neuron were described in the classical paper [A logical calculus of the ideas immanent in nervous activity](http://www.springerlink.com/content/61446605110620kg/fulltext.pdf) by Warren McCullock and Walter Pitts in 1943. Donald Hebb in his book "[The Organization of Behavior: A Neuropsychological Theory](https://books.google.com/books?id=VNetYrB8EBoC)" proposed the way those networks can be trained.
+> Early models of neuron were described in the classical paper [A logical calculus of the ideas immanent in nervous activity](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf) by Warren McCullock and Walter Pitts in 1943. Donald Hebb in his book "[The Organization of Behavior: A Neuropsychological Theory](https://books.google.com/books?id=VNetYrB8EBoC)" proposed the way those networks can be trained.
 
 ## In this Section
 
@@ -45,4 +45,4 @@ In this section we will learn about:
 * [Perceptron](03-Perceptron/README.md), one of the earliest neural network models for two-class classification
 * [Multi-layered networks](04-OwnFramework/README.md) with a paired notebook [how to build our own framework](04-OwnFramework/OwnFramework.ipynb)
 * [Neural Network Frameworks](05-Frameworks/README.md), with these notebooks: [PyTorch](05-Frameworks/IntroPyTorch.ipynb) and [Keras/Tensorflow](05-Frameworks/IntroKerasTF.ipynb)
-* [Overfitting](05-Frameworks/Overfitting.md)
+* [Overfitting](05-Frameworks#overfitting)

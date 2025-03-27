@@ -10,7 +10,7 @@ In this section we will extend this model into a more flexible framework, allowi
 
 We will also develop our own modular framework in Python that will allow us to construct different neural network architectures.
 
-## [Pre-lecture quiz](https://black-ground-0cc93280f.1.azurestaticapps.net/quiz/104)
+## [Pre-lecture quiz](https://red-field-0a6ddfd03.1.azurestaticapps.net/quiz/104)
 
 ## Formalization of Machine Learning
 
@@ -29,7 +29,7 @@ In the definition of *f* above, *w* and *b* are called **parameters** &theta;=‚ü
 
 ## Gradient Descent Optimization
 
-There is a well-known method of function optimization called **gradient descent**. The idea is that we can compute a derivative (in multi-dimensional case call **gradient**) of loss function with respect to parameters, and vary parameters in such a way that the error would decrease. This can be formalized as follows:
+There is a well-known method of function optimization called **gradient descent**. The idea is that we can compute a derivative (in multi-dimensional case called **gradient**) of loss function with respect to parameters, and vary parameters in such a way that the error would decrease. This can be formalized as follows:
 
 * Initialize parameters by some random values w<sup>(0)</sup>, b<sup>(0)</sup>
 * Repeat the following step many times:
@@ -72,7 +72,7 @@ In the accompanying notebook, you will implement your own framework for building
 
 Proceed to the [OwnFramework](OwnFramework.ipynb) notebook and work through it.
 
-## [Post-lecture quiz](https://black-ground-0cc93280f.1.azurestaticapps.net/quiz/204)
+## [Post-lecture quiz](https://red-field-0a6ddfd03.1.azurestaticapps.net/quiz/204)
 
 ## Review & Self Study
 
