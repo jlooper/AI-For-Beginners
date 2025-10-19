@@ -2,7 +2,7 @@
 
 You have almost finished this course, and I hope that by now you clearly see that AI is based on a number of formal mathematical methods that allow us to find relationships in data and train models to replicate some aspects of human behavior. At this point in history, we consider AI to be a very powerful tool to extract patterns from data, and to apply those patterns to solve new problems.
 
-## [Pre-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/5/)
+## [Pre-lecture quiz](https://ff-quizzes.netlify.app/en/ai/quiz/47/)
 
 However, in science fiction we often see stories where AI presents a danger to humankind. Usually those stories are centered around some sort of AI rebellion, when AI decides to confront human beings. This implies that AI has some sort of emotion or can take decisions unforeseen by its developers.
 
@@ -37,4 +37,4 @@ For more information about AI Ethics, please visit [this lesson](https://github.
 
 Take this [Learn Path](https://docs.microsoft.com/learn/modules/responsible-ai-principles/?WT.mc_id=academic-57639-dmitryso) to learn more about responsible AI.
 
-## [Post-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/6/)
+## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ai/quiz/48/)
